@@ -1,0 +1,27 @@
+.content-center {
+  margin: 5%;
+  text-align: center;
+}
+
+.list-style-none {
+  list-style-type: none;
+  padding: 0;
+}
+
+section {
+  font-family: sans-serif;
+  color: #605E5C;
+}
+
+aside {
+  background-color: #CCCCCC;
+}
+
+aside h5 {
+  padding-top: 2%;
+  padding-bottom: 4%;
+}
+
+aside span.emphasis {
+  color: #0088CB;
+}
