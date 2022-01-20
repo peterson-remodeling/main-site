@@ -25,3 +25,9 @@ aside h5 {
 aside span.emphasis {
   color: #0088CB;
 }
+
+@media (max-width:629px) {
+  img#authorPhoto {
+    display: none;
+  }
+} 
